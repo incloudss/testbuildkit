@@ -3,12 +3,6 @@ WORKDIR /src
 COPY [".nuget/NuGet.Config", "./"]
 COPY . .
 RUN ls /src
-#####################################
-###### BUILD ADMIN FRONTEND ######
-#####################################
-###############################
-###### TESTS AND PUBLISH ######
-###############################
 FROM build-env as publish
 
 RUN ls /src
