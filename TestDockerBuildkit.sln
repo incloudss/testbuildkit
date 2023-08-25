@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerBuildkit", "TestDockerBuildkit\TestDockerBuildkit.csproj", "{E480A0B0-0E61-4819-BDC2-17A20DE6F27D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDockerBuildkit2", "TestDockerBuildkit2\TestDockerBuildkit2.csproj", "{3E6F4DA8-64E2-4879-9760-E1392D531112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E480A0B0-0E61-4819-BDC2-17A20DE6F27D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E480A0B0-0E61-4819-BDC2-17A20DE6F27D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E480A0B0-0E61-4819-BDC2-17A20DE6F27D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E480A0B0-0E61-4819-BDC2-17A20DE6F27D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E6F4DA8-64E2-4879-9760-E1392D531112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E6F4DA8-64E2-4879-9760-E1392D531112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E6F4DA8-64E2-4879-9760-E1392D531112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E6F4DA8-64E2-4879-9760-E1392D531112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C9B2A4-CEF8-4663-85FB-C51EE9411B1F}
+	EndGlobalSection
+EndGlobal
